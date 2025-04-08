@@ -17,5 +17,5 @@
 
 ### 📫 Connect With Me  
 - [GitHub](https://github.com/Vandana)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn]((https://www.linkedin.com/in/vandana-eravathri-95ab4b345/))  
 - 📩 Email: vandanamurali9era@gmail.com
